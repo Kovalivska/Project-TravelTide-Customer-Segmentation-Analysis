@@ -27,7 +27,7 @@ This repository contains an analysis of TravelTide’s user behavior and spendin
 Using both conversion score and cluster probability, perks are dynamically assigned.
 Bargain-sensitive travelers receive discounts, business travelers receive VIP benefits,
 and first-time travelers are offered enticing starter perks.
-![Perk_logic_flow](output/Perk_logic_flow.png)
+![Perk_logic_flow](output/Perks_logic_flow.png)
 ![Final_Perks](output/FinalPerks_BAR.png)
 
 
