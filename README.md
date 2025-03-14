@@ -23,6 +23,14 @@ This repository contains an analysis of TravelTide’s user behavior and spendin
 
 -  **Optimization Goal:** The project aims to refine the perk assignment strategy to maximize retention and improve booking conversion rates through targeted, data-driven recommendations.
 
+## Perk Assignment Logic
+Using both conversion score and cluster probability, perks are dynamically assigned.
+Bargain-sensitive travelers receive discounts, business travelers receive VIP benefits,
+and first-time travelers are offered enticing starter perks.
+![Perk_logic_flow](output/Perk_logic_flow.png)
+![Final_Perks](output/FinalPerks_BAR.png)
+
+
 ## Relevant Files:
 
 -  **Reports:**
